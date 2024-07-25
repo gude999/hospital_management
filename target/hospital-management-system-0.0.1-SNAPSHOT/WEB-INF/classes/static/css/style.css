@@ -1,0 +1,20 @@
+body
+{
+	margin: 0;
+	height: 100%;
+}
+
+.custom-bg
+{
+	background:#D7C49E!important;	
+}
+
+.text-color
+{
+	color:#5b4925;
+}
+
+.non-underline-link{
+   text-decoration: none !important;
+}
+        
